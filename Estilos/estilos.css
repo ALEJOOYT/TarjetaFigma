@@ -1,8 +1,7 @@
 @font-face {
     font-family: 'Montserrat'; /* Nombre de la fuente */
-    src: url('Montserrat.ttf') format('truetype');
+    src: url('./Fuentes/Montserrat.ttf') format('truetype');
 }
-
 
 body {
     background-color: #1a1a1a;
