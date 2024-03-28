@@ -1,0 +1,146 @@
+@font-face {
+    font-family: 'Montserrat'; /* Nombre de la fuente */
+    src: url('Montserrat.ttf') format('truetype');
+}
+
+
+body {
+    background-color: #1a1a1a;
+    align-items: center;
+}
+
+.Card {
+    background: #303030;
+    width: 270px;
+    height: 110px;
+    padding: 28px 0px 0px 0px;
+    border-radius: 12px;
+    opacity: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Card .Frame1565 {
+    width: 244px;
+    height: 68px;
+    display: flex;
+    gap: 24px;
+    opacity: 1;
+}
+
+.Card .Frame1565 .Frame1560 {
+    width: 156px;
+    height: 68px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    opacity: 1;
+}
+
+.Card .Frame1565 .Frame1560 .dos {
+    width: 156px;
+    height: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 40px;
+    text-align: left;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-left: 20px;
+}
+
+.Card .Frame1565 .Frame1560 .Messages {
+    font-family: 'Montserrat', sans-serif;
+    width: 156px;
+    height: 24px;
+    color: #FFFFFFCC;
+    opacity: 1;
+    margin-left: 20px;
+    margin-top: -2px;
+}
+
+.Card .Frame1565 .Frame1564 {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: #F2994A33;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+}
+
+.Card .Frame1565 .Frame1564 .Icon1 {
+    width: 36px;
+    height: 36px;
+    opacity: 1;
+}
+
+.Card .Frame1565 .Frame1564 .Icon1 .Vector1 {
+    width: 30px;
+    height: 30px;
+    color: #F2994A;
+    opacity: 1;
+    margin-left: 3px;
+    margin-top: 4px;
+}
+
+.Card .Frame1566 {
+    width: 244px;
+    height: 16px;
+    display: flex;
+    gap: 12px;
+    opacity: 1;
+}
+
+.Card .Frame1566 .Frame1565 {
+    width: 244px;
+    height: 16px;
+    display: flex;
+    gap: 12px;
+    opacity: 1;
+}
+
+.Card .Frame1566 .Frame1565 .Icon2 {
+    width: 16px;
+    height: 16px;
+    opacity: 1;
+}
+
+.Card .Frame1566 .Frame1565 .Icon2 .Vector2 {
+    width: 9.33px;
+    height: 9.33px;
+    color: #27AE60;
+    opacity: 1;
+    margin-left: 20px;
+    margin-bottom: 2px;
+}
+
+.Card .Frame1566 .Since {
+    width: 179px;
+    height: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.63px;
+    text-align: left;
+    color: #FFFFFF99;
+    opacity: 1;
+    margin-left: -150px;
+}
+
+.Card .Frame1566 .Frame1565 .Tres {
+    width: 35px;
+    height: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.63px;
+    text-align: left;
+    color: #27AE60;
+    opacity: 1;
+    margin-left: 8px;
+}
